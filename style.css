@@ -111,7 +111,7 @@ p,.p-font-size{
 /* imp! Section-2 (Hero-Section) */
 
 .hero-section{
-    background-image: url(C:\Users\Welcome\Desktop\projects\portfolio\assests\images\head.webp);
+    background-image: url(./head.webp);
     background-color: var(--dark-black);
     background-size: cover;
     background-repeat: no-repeat;
@@ -222,7 +222,7 @@ p,.p-font-size{
 /*imp! Section-6 (Achievement Section) */
 
 .acheivement-section{
-    background: url(../img/Achievement-Section/3d-modern-office-interior.webp);
+    background: url(./img/Achievement-Section/3d-modern-office-interior.webp);
     background-size: cover;
     padding: 15rem;
     position: relative;
