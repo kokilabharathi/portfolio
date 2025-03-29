@@ -111,7 +111,7 @@ p,.p-font-size{
 /* imp! Section-2 (Hero-Section) */
 
 .hero-section{
-    background-image: url(./head.webp);
+    background-image: url("./head.webp");
     background-color: var(--dark-black);
     background-size: cover;
     background-repeat: no-repeat;
